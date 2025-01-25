@@ -1,4 +1,4 @@
-# Project Title
+# HID Joystick 8Buttons 4Axis
 
 A short description about the project and/or client.
 
